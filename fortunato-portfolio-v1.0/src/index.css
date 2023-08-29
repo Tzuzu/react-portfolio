@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --light: #fafafa;
+  --dark: #4c6374;
+  --darker: #1f3b60;
+}
+
+html, 
+body {
+  min-height: 100%;
+}
+
+.wrapper {
+  background-color: var(--darker);
+  color: var(--light);
+  font-family: 'Open Sans', sans-serif;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 1.5;
+}
+
+main {
+  min-height: calc(100vh - 250px);
+}
+
+a {
+  text-decoration: none;
+  color: var(--light);
+}
+
+h1,
+h2 {
+  font-family: 'Aladin', cursive;
+}
