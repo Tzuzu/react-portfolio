@@ -8,6 +8,15 @@ main h2 {
     font-size: 6rem;
 }
 
+/* Portfolio */
+
+.portfolio .description {
+    color: black;
+}
+
+.portfolio .image {
+    background: none;
+}
 /* Resume */
 
 .resume .list-group-item {
