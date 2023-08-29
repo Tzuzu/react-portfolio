@@ -8,3 +8,9 @@ main h2 {
     font-size: 6rem;
 }
 
+/* Resume */
+
+.resume .list-group-item {
+    background-color: lightblue;
+    color: black;
+}
