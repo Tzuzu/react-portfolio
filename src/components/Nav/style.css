@@ -10,10 +10,11 @@ header .nav-link {
 
 header .nav-link:hover {
     color: var(--light);
-    opacity: 1;
+    opacity: 0.8;
 }
 
 header .nav-link.active {
-    color: var(--dark);
+    color: white;
     cursor: default;
+    opacity: 1;
 }

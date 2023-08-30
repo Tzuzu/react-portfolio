@@ -10,8 +10,15 @@ main h2 {
 
 /* Portfolio */
 
+.portfolio h5 {
+    color: black;
+    text-align: center;
+    
+}
+
 .portfolio .description {
     color: black;
+    text-align: left;
 }
 
 .portfolio .image {

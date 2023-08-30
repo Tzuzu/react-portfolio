@@ -1,5 +1,6 @@
 header {
-    height: 200px;
+    height: 100px;
+    background: linear-gradient(to right, #1f4edb, #85006e);
 }
 
 header h1 {

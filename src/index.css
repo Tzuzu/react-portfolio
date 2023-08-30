@@ -5,9 +5,8 @@
 }
 
 :root {
-  --light: #fafafa;
+  --light: #e8f3fc;
   --dark: #4c6374;
-  --darker: #1f3b60;
 }
 
 html, 
@@ -16,7 +15,7 @@ body {
 }
 
 .wrapper {
-  background-color: var(--darker);
+  background-color: var(--light);
   color: var(--light);
   font-family: 'Open Sans', sans-serif;
   font-size: 18px;
