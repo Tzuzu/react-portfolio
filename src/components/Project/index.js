@@ -3,9 +3,10 @@ import React from 'react'
 const Project = ({ project }) => {
   return (
     <div className='col'>
+      <a href={project.link}>
         <div class="card">
-          <a href={project.link}><img src={require(`../../assets/projects/${project.name}.jpg`)} 
-          class="card-img" alt={project.name}/></a>
+          <img src={require(`../../assets/projects/${project.name}.jpg`)} 
+          class="card-img" alt={project.name}/>
           <div class="card-img-overlay image">
             <h5 class="card-title">
                 <a href={project.link} className='card-text'>
@@ -21,6 +22,7 @@ const Project = ({ project }) => {
             </p>
           </div>
         </div>
+        </a>
     </div>
   )
 }
