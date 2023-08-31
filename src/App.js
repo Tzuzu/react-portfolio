@@ -1,7 +1,6 @@
 import React, {useState} from 'react';
 import Header from './components/Header';
 import Footer from './components/Footer';
-import Nav from './components/Nav';
 import Page from './Page'
 
 const pages = ['about', 'portfolio', 'contact', 'resume']

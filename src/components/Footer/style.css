@@ -1,3 +1,7 @@
 footer {
-    height: 10px;
+    height: 60px;
+    background: linear-gradient(to right, #1f4edb, #85006e);
+    text-align: center;
+    font-size: 1rem;
+    color: var(--light);
 }

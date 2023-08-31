@@ -4,5 +4,12 @@ header {
 }
 
 header h1 {
-    font-size: 5rem;
+    font-size: 2.5rem;
+    color: var(--light);
+}
+
+header .nav {
+    float: none;
+    position: absolute;
+    left: 20%;
 }

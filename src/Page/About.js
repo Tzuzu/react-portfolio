@@ -1,14 +1,16 @@
 import React from 'react'
+import logo from '../assets/images/logo.png'
+import './style.css'
 
 export const About = () => {
   return (
     <>
-    <div className="d-flex align-items-center">
-        <i className="fas fa-user-circle me-4"></i>
-        <p> Cillum eu elit dolor laborum eiusmod non dolore exercitation. Sunt aliqua duis minim ea est deserunt. Dolor reprehenderit excepteur do commodo deserunt labore anim ullamco ad voluptate esse in proident. Ad amet nisi qui nostrud exercitation aliqua dolor adipisicing esse.
+    <div className="about">
+        <img src={logo} alt="Logo" className="logo"/>
+        <p>Hello, my name is Fortunato Iodice and I'm currently 26 years old studying at the University of Arizona's coding bootcamp. Throughout the course of the last 6 months I've been learning and studying tons of different coding languages in order to become a full stack developer. There have been many challenges throughout this course but I'm very glad to say that doing this course has allowed me to find passion in places that before I would be too hesistant to try.
         </p>
+        <p>Something that I have learned in this bootcamp is that collaboration is key, and that you shouldn't be afraid to ask questions or as for help from your peers, since they can do the same for you. Sometimes it is very hard to notice small mistakes when you look at your own code, since you wouldn't expect yourself to make that error, but throughout the course I've been able to collaborate with others in order to notice these small mistakes and I've been able to grow as a result of it.</p>
     </div>
-  <p> Voluptate et in fugiat laboris laboris ipsum officia. Magna proident sit Lorem exercitation. Consectetur irure nostrud nisi non anim sint tempor ut reprehenderit deserunt quis. Labore magna nisi consequat ut consequat eiusmod ut magna deserunt proident nostrud eiusmod aute. Exercitation fugiat elit dolore dolore et fugiat voluptate labore reprehenderit consectetur irure ad esse. Pariatur deserunt exercitation commodo cillum adipisicing eiusmod exercitation.</p>
   </>
 )}
 
