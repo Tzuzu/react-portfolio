@@ -20,8 +20,7 @@ const Page = ({currentPage}) => {
     }
   }
   return <section className="container">
-    <h2 className="mb-3">
-    {capitalize(currentPage)}</h2>
+    <br></br>
     {renderPage(currentPage)}
     </section>
 }

@@ -11,6 +11,8 @@ main h2 {
 
 .about p {
     text-indent: 50px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
 }
 
 /* Portfolio */
@@ -23,6 +25,8 @@ main h2 {
 .portfolio .description {
     color: black;
     text-align: left;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
 }
 
 .portfolio .image {
