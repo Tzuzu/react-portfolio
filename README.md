@@ -1,5 +1,7 @@
 ## My Portfolio
 
+![Portfolio Website](./src/assets/images/logo.png)
+
 If you wish to view the website, you may do so from [here](https://tzuzu.github.io/react-portfolio/)
 
 ## Purpose
