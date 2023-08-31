@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.70974b2e.css",
-    "main.js": "/react-portfolio/static/js/main.c67a69e6.js",
+    "main.css": "/react-portfolio/static/css/main.0bf6adbf.css",
+    "main.js": "/react-portfolio/static/js/main.a583ce21.js",
     "static/media/Original-Portfolio.jpg": "/react-portfolio/static/media/Original-Portfolio.1907b18af515ad738bfc.jpg",
     "static/media/Horiseon.jpg": "/react-portfolio/static/media/Horiseon.14bb8c42a6dbb7f26ef2.jpg",
     "static/media/Weather-Dashboard.jpg": "/react-portfolio/static/media/Weather-Dashboard.055852f6e6783ac33f1d.jpg",
     "static/media/Cookbook.jpg": "/react-portfolio/static/media/Cookbook.f1eff4ad3e3bcd63a4c0.jpg",
     "static/media/Coding-Quiz.jpg": "/react-portfolio/static/media/Coding-Quiz.5dd81e3598cbb452abe2.jpg",
+    "static/media/logo.png": "/react-portfolio/static/media/logo.9a860504c63137568311.png",
     "static/media/Password-Generation.jpg": "/react-portfolio/static/media/Password-Generation.83eddf6af3439aca25f5.jpg",
     "index.html": "/react-portfolio/index.html",
-    "main.70974b2e.css.map": "/react-portfolio/static/css/main.70974b2e.css.map",
-    "main.c67a69e6.js.map": "/react-portfolio/static/js/main.c67a69e6.js.map"
+    "main.0bf6adbf.css.map": "/react-portfolio/static/css/main.0bf6adbf.css.map",
+    "main.a583ce21.js.map": "/react-portfolio/static/js/main.a583ce21.js.map"
   },
   "entrypoints": [
-    "static/css/main.70974b2e.css",
-    "static/js/main.c67a69e6.js"
+    "static/css/main.0bf6adbf.css",
+    "static/js/main.a583ce21.js"
   ]
 }
